@@ -1,0 +1,15 @@
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\net6.0\KsiazkaTelefoniczna.exe
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\net6.0\KsiazkaTelefoniczna.deps.json
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\net6.0\KsiazkaTelefoniczna.runtimeconfig.json
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\net6.0\KsiazkaTelefoniczna.dll
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\bin\Debug\net6.0\KsiazkaTelefoniczna.pdb
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\KsiazkaTelefoniczna.csproj.AssemblyReference.cache
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\KsiazkaTelefoniczna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\KsiazkaTelefoniczna.AssemblyInfoInputs.cache
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\KsiazkaTelefoniczna.AssemblyInfo.cs
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\KsiazkaTelefoniczna.csproj.CoreCompileInputs.cache
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\KsiazkaTelefoniczna.dll
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\refint\KsiazkaTelefoniczna.dll
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\KsiazkaTelefoniczna.pdb
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\KsiazkaTelefoniczna.genruntimeconfig.cache
+C:\Users\Kubuś\Desktop\KsiazkaTelefoniczna\KsiazkaTelefoniczna\obj\Debug\net6.0\ref\KsiazkaTelefoniczna.dll
